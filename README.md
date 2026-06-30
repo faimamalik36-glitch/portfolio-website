@@ -1,6 +1,6 @@
-## 🌍 Live Demo
+##  Live Demo
 
-🔗 
+🔗 https://github.com/faimamalik36-glitch/portfolio-website.git
 #  Personal Portfolio Website
 
 Welcome to my personal portfolio website!
@@ -53,9 +53,9 @@ I am continuously improving my skills in Artificial Intelligence, Automation, an
 
 ## Contact
 
-* LinkedIn: 
-* GitHub: 
-* Email: 
+* LinkedIn: Fatima Malik
+* GitHub:faimamalik36-glitch 
+* Email: fatimamalikfm0440491@gmail.com
 
 ---
 
